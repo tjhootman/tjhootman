@@ -29,6 +29,8 @@ I'm Civil Designer with a passion for programming. I'm currently attending Colum
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+<a href="https://www.credly.com/badges/d52daa06-8f1a-45a9-a35c-c293395fb239/public_url"><img src="https://github.com/tjhootman/images/blob/main/aws-certified-cloud-practitioner.png?raw=true"></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tjhootman"><img src="https://github-readme-stats.vercel.app/api?username=tjhootman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="tjhootman's GitHub stats" /></a>
