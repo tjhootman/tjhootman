@@ -1,6 +1,7 @@
 name: Update badges
 
 on:
+  push:
   workflow_dispatch: # run manually
   schedule:
     # Runs at 1am UTC on Sunday
