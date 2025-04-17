@@ -4,7 +4,7 @@ Hi 👋 My name is Todd Hootman
 Software Developer
 ------------------
 
-I'm a Civil Designer with a passion for programming. I'm currently attending Columbus State for Software Development.
+I'm a Civil Designer with a passion for programming. I'm currently attending Columbus State for Software Development while continuing to work in the civil engineering field.
 
 * 🌍  I'm based in Columbus, OH
 * ✉️  You can contact me at [tjhootman@gmail.com](mailto:tjhootman@gmail.com)
