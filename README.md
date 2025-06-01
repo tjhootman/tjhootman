@@ -8,7 +8,7 @@ I'm a Civil Designer with a passion for programming. I currently work in civil e
 
 * 🌍  I'm based in Columbus, OH
 * ✉️  You can contact me at [tjhootman@gmail.com](mailto:tjhootman@gmail.com)
-* 🚀  I'm currently working on [Alien Invasion Game](https://github.com/tjhootman/alien_Invasion)
+* 🚀  I'm currently working on [Text to Audiobook Application](https://github.com/tjhootman/txt-to-audiobook)
 * 🧠  I'm learning Python and Django
 * 🤝  I'm open to collaborating on Projects
 
