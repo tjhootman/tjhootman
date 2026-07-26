@@ -9,10 +9,10 @@ Four apps in development, all native Swift and SwiftUI.
 
 | | |
 |---|---|
-| **Inkling** | Local-first notes in plain markdown, with on-device voice capture |
+| **Inkling** | Local-first notes and tasks in plain markdown, with on-device voice capture |
 | **Greenroom** | A quieter place to talk about film |
 | **Nightfall** | A narrator and moderator for Werewolf, so nobody has to sit out to run the game |
-| **VibeDeck** | Real-time party queue — the host runs Apple Music, the room votes |
+| **VibeDeck** | Real-time party queue - the host runs Apple Music, the room votes |
 
 Swift, SwiftUI, MusicKit, Supabase, WebSockets.
 
@@ -23,7 +23,7 @@ the reason four small apps has been an interesting problem rather than a repetit
 
 Local-first and on-device wherever the architecture allows it, and a server only when
 the app can't work any other way. No engagement mechanics. Every app has to either do
-something nothing else does or be genuinely fun — I'd rather ship three things I'd use
+something nothing else does or be genuinely fun; I'd rather ship three things I'd use
 than ten I wouldn't.
 
 ## Published
@@ -44,13 +44,13 @@ that keep working without maintenance.
 
 ## Working with
 
-**Languages** — Swift, Python, JavaScript, SQL
+**Languages**: Swift, Python, JavaScript, SQL
 
-**Frameworks** — SwiftUI, Astro
+**Frameworks**: SwiftUI, React, Astro, Django
 
-**Infrastructure & data** — AWS, PostgreSQL, Supabase, Git, Linux
+**Infrastructure & data**: AWS, PostgreSQL, Supabase, Git, Linux
 
-**Also comfortable in** — geospatial and GIS tooling
+**Also comfortable in**: geospatial and GIS tooling
 
 ## Elsewhere
 
