@@ -26,6 +26,12 @@ the app can't work any other way. No engagement mechanics. Every app has to eith
 something nothing else does or be genuinely fun — I'd rather ship three things I'd use
 than ten I wouldn't.
 
+## Published
+
+**[FileCoordination](https://github.com/tjhootman/FileCoordination)** — coordinated
+atomic file access, directory watching, and conflict surfacing on iCloud Drive.
+Extracted from Inkling. iOS 16+, no dependencies.
+
 ## Also
 
 Before this I spent fourteen years in civil design, most recently as a senior designer
