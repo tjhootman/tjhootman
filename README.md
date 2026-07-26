@@ -56,6 +56,6 @@ that keep working without maintenance.
 
 - [fluxandform.io](https://fluxandform.io) — the studio
 - [LinkedIn](https://www.linkedin.com/in/tjhootman)
-- hello@fluxandform.io
+- todd@fluxandform.io
 
 Open to collaborating on iOS work, Python tooling, and geospatial projects.
